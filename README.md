@@ -4,3 +4,7 @@
 - Frontend (employee): React.js & Material-UI
 - Backend (server): Node.js & Express.js
 - Database (NoSQL): MongoDB
+
+---
+
+https://bkit.co/w_638c5b37ecade.gif
